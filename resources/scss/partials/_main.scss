@@ -1,0 +1,28 @@
+@use './variables' as *;
+@use './mixins' as *;
+
+section {
+    padding: 2rem 0;
+}
+
+header {
+    padding-top: $hgt-topbar;
+
+    section {
+        @include align-container($wdt-section-l);
+        text-align: center;
+
+        .title {
+            font-size: 5rem;
+        }
+    }
+}
+
+main section {
+    @include align-container($wdt-section-s);
+
+    .title {
+        font-size: 2rem;
+        margin-bottom: .25rem;
+    }
+}

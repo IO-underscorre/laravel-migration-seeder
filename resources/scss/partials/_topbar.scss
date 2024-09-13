@@ -1,0 +1,39 @@
+@use './variables' as *;
+@use './mixins' as *;
+
+.topbar {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    height: $hgt-topbar;
+    color: $clr-brand-primary;
+    background-color: $clr-background;
+    box-shadow: 0 0 4px 2px $clr-shadow;
+
+    &>ul {
+        @include align-container($wdt-section-l);
+        height: 100%;
+        @include flex-center('vertical');
+        justify-content: space-between;
+
+        .logo {
+            height: 80%;
+
+            img {
+                height: 100%;
+            }
+        }
+
+        .links {
+            @include flex-center('vertical');
+            gap: 2rem;
+            font-size: 1.5rem;
+            font-weight: 700;
+
+            .active {
+                color: $clr-brand-secondary;
+            }
+        }
+    }
+}
