@@ -7,9 +7,11 @@ $wdt-section-m: 1400px;
 $wdt-section-s: 1200px;
 
 // Colors
-$clr-brand-primary: #000000;
-$clr-brand-secondary: #ff0000;
+$clr-brand-primary: #8f0000;
+$clr-brand-secondary: #ffffff;
+$clr-brand-secondary-dk-5: darken($clr-brand-secondary, 5%);
+$clr-brand-secondary-dk-10: darken($clr-brand-secondary, 10%);
 
-$clr-background: #ffffff;
+$clr-text-default: #181818;
 
 $clr-shadow: #00000080;

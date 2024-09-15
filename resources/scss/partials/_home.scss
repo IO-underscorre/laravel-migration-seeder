@@ -1,0 +1,46 @@
+@use './variables' as *;
+@use './mixins' as *;
+
+.trains-table {
+    width: 100%;
+    background-color: $clr-brand-secondary;
+
+    tr {
+        display: flex;
+        text-align: center;
+        padding: .5rem 0;
+
+        th,
+        td {
+            flex: 1 1 calc(100% / 8);
+        }
+    }
+
+    thead {
+        color: $clr-brand-secondary;
+
+        tr {
+            background-color: $clr-brand-primary;
+        }
+    }
+
+    tbody {
+        background-color: $clr-brand-secondary;
+
+        tr {
+            border-top: 1px solid $clr-shadow;
+
+            &:first-child {
+                border-top: 0;
+            }
+
+            &:nth-child(even) {
+                background-color: $clr-brand-secondary-dk-5;
+            }
+
+            &:hover {
+                background-color: $clr-brand-secondary-dk-10;
+            }
+        }
+    }
+}

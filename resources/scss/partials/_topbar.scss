@@ -8,7 +8,7 @@
     width: 100%;
     height: $hgt-topbar;
     color: $clr-brand-primary;
-    background-color: $clr-background;
+    background-color: $clr-brand-secondary;
     box-shadow: 0 0 4px 2px $clr-shadow;
 
     &>ul {
@@ -32,7 +32,7 @@
             font-weight: 700;
 
             .active {
-                color: $clr-brand-secondary;
+                text-decoration: underline;
             }
         }
     }

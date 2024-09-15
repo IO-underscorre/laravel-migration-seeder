@@ -13,6 +13,23 @@ ol {
     list-style: none;
 }
 
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
 a {
     color: inherit;
     text-decoration: inherit;
@@ -22,4 +39,6 @@ a {
     font-size: 16px;
     font-optical-sizing: auto;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    background-color: $clr-brand-primary;
 }
