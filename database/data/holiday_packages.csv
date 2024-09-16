@@ -1,0 +1,66 @@
+name,description,price,start_date,end_date,max_guests,is_valid
+"Summer Escape","Enjoy the summer at the beach",199.99,2024-06-15,2024-06-20,5,1
+"Summer Escape","Enjoy the summer at the beach",99.99,2024-06-15,2024-06-20,5,0
+"Winter Wonderland","Ski in the beautiful Alps",299.99,2024-12-01,2024-12-10,4,1
+"Island Paradise","Relax on a tropical island",499.50,2024-07-10,2024-07-17,2,1
+"Mountain Adventure","Hiking and camping in the Rockies",350.75,2024-08-01,2024-08-07,6,1
+"City Break","Explore the vibrant city life",150.00,2024-10-12,2024-10-15,3,1
+"Desert Safari","Experience the Sahara Desert",700.00,2024-11-05,2024-11-12,4,1
+"Rainforest Retreat","Discover the beauty of the Amazon",550.25,2024-09-20,2024-09-25,4,1
+"Beach Relaxation","Unwind on the sandy beaches",250.00,2024-05-01,2024-05-07,5,1
+"Cultural Tour","Visit historic landmarks",120.00,2024-03-10,2024-03-14,10,1
+"Winter Skiing","Enjoy skiing in the Pyrenees",399.99,2024-12-20,2024-12-30,4,1
+"Tropical Escape","Sunny days in the Caribbean",599.00,2024-06-01,2024-06-10,2,1
+"Safari Adventure","Wildlife safari in Africa",800.00,2024-08-10,2024-08-20,6,1
+"Autumn Foliage Tour","Admire the fall colors",175.00,2024-10-01,2024-10-05,4,1
+"Island Hopping","Explore multiple islands in Greece",325.50,2024-07-05,2024-07-12,8,1
+"Hot Springs Getaway","Relax in natural hot springs",225.00,2024-04-20,2024-04-25,2,1
+"Cruise to Alaska","Cruise along the Alaskan coast",1200.99,2024-09-15,2024-09-25,10,1
+"Wine Tasting Tour","Sample the finest wines",350.00,2024-05-10,2024-05-14,8,1
+"Safari in Tanzania","Explore Serengeti National Park",900.00,2024-08-15,2024-08-25,6,1
+"European River Cruise","Sail along Europe's rivers",1100.00,2024-06-20,2024-07-01,10,1
+"Greek Island Getaway","Relax on the beaches of Mykonos",499.99,2024-09-05,2024-09-12,5,1
+"Japanese Cherry Blossoms","Witness Japan's cherry blossoms",950.50,2024-04-01,2024-04-10,4,1
+"Norwegian Fjords Cruise","Cruise through scenic fjords",1250.75,2024-06-10,2024-06-20,12,1
+"Rocky Mountains Tour","Hike through the Rockies",450.00,2024-07-15,2024-07-20,6,1
+"Patagonia Expedition","Explore the rugged landscapes of Patagonia",1300.00,2024-11-01,2024-11-12,5,1
+"Grand Canyon Adventure","Hike the majestic Grand Canyon",250.00,2024-09-01,2024-09-07,5,1
+"Summer Beach Escape","Enjoy a summer getaway at a beautiful beach resort",499.99,2024-07-10,2024-07-15,5,1
+"Winter Wonderland Adventure","Ski in the mountains and enjoy cozy winter cabins",299.99,2024-12-05,2024-12-12,4,1
+"City Lights Tour","Explore the best cities in Europe under the vibrant lights",599.99,2024-09-01,2024-09-10,6,1
+"Tropical Paradise","Relax in a tropical paradise with crystal-clear waters",799.99,2024-06-15,2024-06-22,2,1
+"Mountain Hiking Retreat","Hike through scenic mountain trails and enjoy nature",199.99,2024-08-01,2024-08-07,3,1
+"Romantic Getaway","Escape to a romantic resort with private beaches",699.99,2024-10-12,2024-10-18,2,1
+"Safari Adventure","Explore the wild and enjoy a guided safari tour",899.99,2024-09-20,2024-09-27,5,1
+"Cultural Heritage Tour","Discover ancient civilizations and cultural landmarks",399.99,2024-11-01,2024-11-07,4,1
+"Island Hopping Escape","Hop between beautiful islands with pristine beaches",749.99,2024-07-20,2024-07-30,6,1
+"Historic City Break","Visit historic cities and explore ancient landmarks",249.99,2024-05-05,2024-05-12,4,1
+"Desert Adventure","Experience the desert with camel rides and sand dunes",549.99,2024-04-15,2024-04-22,3,1
+"Rainforest Retreat","Stay in a luxurious rainforest lodge surrounded by nature",899.99,2024-03-10,2024-03-17,4,1
+"Beach & Culture Combo","Relax on the beach and explore local cultural sites",599.99,2024-07-25,2024-08-01,5,1
+"European Road Trip","Drive across Europe and explore various countries",999.99,2024-06-01,2024-06-20,2,1
+"Wine Tasting Tour","Visit vineyards and enjoy guided wine-tasting experiences",399.99,2024-10-05,2024-10-10,2,1
+"Art & History Expedition","Discover famous art museums and historical landmarks",499.99,2024-09-15,2024-09-22,3,1
+"Luxury Spa Retreat","Indulge in luxurious spa treatments and relaxation",799.99,2024-08-10,2024-08-15,2,1
+"Island Yoga Retreat","Rejuvenate with yoga sessions on a secluded island",699.99,2024-09-10,2024-09-17,6,1
+"Wildlife Photography Tour","Capture wildlife on camera with expert guides",699.99,2024-05-25,2024-06-01,3,1
+"Fishing & Camping Adventure","Enjoy a peaceful fishing and camping experience",199.99,2024-07-15,2024-07-20,4,1
+"Snowy Mountain Escape","Experience a winter wonderland in the snowy mountains",349.99,2024-12-15,2024-12-22,5,1
+"Festival & Fun Tour","Attend popular festivals and events in vibrant cities",449.99,2024-11-10,2024-11-17,6,1
+"River Cruise Adventure","Relax on a scenic river cruise with guided tours",799.99,2024-06-05,2024-06-12,5,1
+"Wild West Expedition","Explore the wild west with cowboy experiences",549.99,2024-09-15,2024-09-22,3,1
+"North Pole Adventure","Visit the North Pole and experience the Arctic",1599.99,2024-12-05,2024-12-15,2,1
+"Luxury Yacht Vacation","Sail the seas on a luxury yacht with private crew",2499.99,2024-07-01,2024-07-10,6,1
+"Countryside Horseback Riding","Ride horses through beautiful countryside landscapes",399.99,2024-05-15,2024-05-22,3,1
+"Hot Air Balloon Safari","Enjoy aerial views of wildlife from a hot air balloon",899.99,2024-08-20,2024-08-27,4,1
+"Volcano Trekking Adventure","Hike up active volcanoes with expert guides",599.99,2024-06-10,2024-06-17,4,1
+"Golf & Relaxation Retreat","Combine golf with luxury spa treatments",499.99,2024-09-20,2024-09-27,2,1
+"Island Scuba Diving","Explore underwater reefs with guided scuba diving",1099.99,2024-07-20,2024-07-27,4,1
+"Alpine Hiking Adventure","Trek through the beautiful Alpine mountain range",449.99,2024-06-10,2024-06-20,3,1
+"Jungle Expedition","Venture deep into the jungle with experienced guides",749.99,2024-03-05,2024-03-15,6,1
+"Desert Star Gazing","Experience breathtaking views of the stars in the desert",299.99,2024-04-10,2024-04-15,3,1
+"European Cultural Journey","Immerse in the art, music, and history of Europe",849.99,2024-05-01,2024-05-15,5,1
+"Vineyard Retreat","Relax in a countryside vineyard with local wine tastings",599.99,2024-08-01,2024-08-07,2,1
+"Tropical Wildlife Expedition","Discover unique wildlife in tropical rainforests",949.99,2024-07-05,2024-07-12,3,1
+"Coastal Sailing Adventure","Sail along the scenic coast with expert sailors",749.99,2024-09-25,2024-10-02,6,1
+"Historical Castle Tour","Visit iconic castles across Europe",499.99,2024-04-15,2024-04-22,5,1
